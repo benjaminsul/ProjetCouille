@@ -123,6 +123,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+fonction.o: fonction.c.o
+
+.PHONY : fonction.o
+
+# target to build an object file
+fonction.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/fonction.c.o
+.PHONY : fonction.c.o
+
+fonction.i: fonction.c.i
+
+.PHONY : fonction.i
+
+# target to preprocess a source file
+fonction.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/fonction.c.i
+.PHONY : fonction.c.i
+
+fonction.s: fonction.c.s
+
+.PHONY : fonction.s
+
+# target to generate assembly for a file
+fonction.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/fonction.c.s
+.PHONY : fonction.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled"
+	@echo "... fonction.o"
+	@echo "... fonction.i"
+	@echo "... fonction.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

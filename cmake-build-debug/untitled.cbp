@@ -76,6 +76,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/elienedjar/Desktop/projects/projet/fonction.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/elienedjar/Desktop/projects/projet/fonction.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/elienedjar/Desktop/projects/projet/main.c">
 			<Option target="untitled"/>
 		</Unit>
