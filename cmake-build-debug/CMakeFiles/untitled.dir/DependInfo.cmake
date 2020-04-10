@@ -4,10 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/elienedjar/Desktop/projects/projet/fonction.c" "/Users/elienedjar/Desktop/projects/projet/cmake-build-debug/CMakeFiles/untitled.dir/fonction.c.o"
-  "/Users/elienedjar/Desktop/projects/projet/main.c" "/Users/elienedjar/Desktop/projects/projet/cmake-build-debug/CMakeFiles/untitled.dir/main.c.o"
+  "C:/Users/Benjamin/Desktop/matam/untitled/ben.c" "C:/Users/Benjamin/Desktop/matam/untitled/cmake-build-debug/CMakeFiles/untitled.dir/ben.c.obj"
+  "C:/Users/Benjamin/Desktop/matam/untitled/fonction.c" "C:/Users/Benjamin/Desktop/matam/untitled/cmake-build-debug/CMakeFiles/untitled.dir/fonction.c.obj"
+  "C:/Users/Benjamin/Desktop/matam/untitled/main.c" "C:/Users/Benjamin/Desktop/matam/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "AppleClang")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

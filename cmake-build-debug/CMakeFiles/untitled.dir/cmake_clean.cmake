@@ -1,7 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled.dir/fonction.c.o"
-  "CMakeFiles/untitled.dir/main.c.o"
-  "untitled"
+  "CMakeFiles/untitled.dir/ben.c.obj"
+  "CMakeFiles/untitled.dir/fonction.c.obj"
+  "CMakeFiles/untitled.dir/main.c.obj"
+  "libuntitled.dll.a"
+  "untitled.exe"
+  "untitled.exe.manifest"
   "untitled.pdb"
 )
 
